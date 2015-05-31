@@ -1,0 +1,14 @@
+{
+    "name": "amis/catenalink-response",
+    "description": "Catena Link responsable for handling the response object returned by controllers",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JP",
+            "email": "jp@amis.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
