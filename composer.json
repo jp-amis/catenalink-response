@@ -10,5 +10,21 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+
+    "repositories": [
+      {
+        "type": "git",
+        "url": "https://github.com/jp-amis/catena.git"
+      }
+    ],
+    "require": {
+      "amis/catena": "dev-develop"
+    },
+
+    "autoload": {
+      "classmap": [],
+      "psr-4": {
+        "Amis\\Catena\\Link": "src/CatenaLink-Response/"
+      }
+    }
 }
