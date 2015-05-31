@@ -24,7 +24,7 @@
     "autoload": {
       "classmap": [],
       "psr-4": {
-        "Amis\\Catena\\Link": "src/CatenaLink-Response/"
+        "Amis\\Catena\\Link\\": "src/CatenaLink-Response/"
       }
     }
 }
