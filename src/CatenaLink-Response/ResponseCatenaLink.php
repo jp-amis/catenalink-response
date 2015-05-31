@@ -14,7 +14,7 @@ class ResponseCatenaLink extends BaseCatenaLink {
         $this->_viewFactory = $viewFactory;
 
     }
-    public function renderView($viewName) {
+    public function view($viewName) {
         return $this->_viewFactory->make($viewName);
     }
 }
