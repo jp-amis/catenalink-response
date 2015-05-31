@@ -18,6 +18,7 @@
       }
     ],
     "require": {
+      "illuminate/http": "dev-master",
       "amis/catena": "dev-develop"
     },
 
