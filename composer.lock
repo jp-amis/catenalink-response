@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "77ce40cbcacba921b1e360819cec359d",
+    "hash": "2bac986cd5aa3302f6ba31873a33a70c",
     "packages": [
         {
             "name": "amis/catena",
@@ -806,7 +806,6 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "illuminate/http": 20,
         "amis/catena": 20
     },
     "prefer-stable": false,
