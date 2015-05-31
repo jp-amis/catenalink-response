@@ -11,7 +11,7 @@ class ResponseCatenaLink extends BaseCatenaLink {
     private $_viewFactory;
     public function __construct(ViewFactory $viewFactory){
 
-        $this->_response = $viewFactory;
+        $this->_viewFactory = $viewFactory;
 
     }
     public function renderView($viewName) {
